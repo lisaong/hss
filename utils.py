@@ -26,8 +26,10 @@ def read_kinoeva(input_file):
     # rename index
     df.index.name = 'T'
 
-    # save the original data as another column
+    # save the original timestamp as another column
     df['Original_timestamp'] = df.index
-    df.index = pd.to_timedelta(df.index.str.replace(r'0:(.*)', r'\1'), errors='coerce')
+
+    # time units are in h:mm:ss:hundredth
+    df.index = pd.to_timedelta(df.index.str.replace(r'(0:.*):(\d+)', r'0\1.\2'), errors='coerce')
 
     return df
