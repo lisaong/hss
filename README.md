@@ -7,3 +7,4 @@ conda install -y numpy pandas matplotlib scikit-learn seaborn
 Notes:
 - TF now supports python 3.7: https://github.com/tensorflow/tensorflow/issues/20517#issuecomment-461910761
 - https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+- Try this: https://arxiv.org/pdf/1812.07203.pdf
