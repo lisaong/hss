@@ -1,0 +1,10 @@
+<nova version="1">
+	<medias>
+		<media>CFF Demo_ Underhand Vertical Med Ball Throw.mp4</media>
+	</medias>
+	<signals>
+	</signals>
+	<tiers>
+		<tier>test.annotation</tier>
+	</tiers>
+</nova>
