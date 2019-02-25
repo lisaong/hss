@@ -1,4 +1,9 @@
+*.dll
 *.exe
 *.mp4
 .ipynb_checkpoints/
+.vscode/
 __pycache__/
+
+# prototypes
+data/prototypes

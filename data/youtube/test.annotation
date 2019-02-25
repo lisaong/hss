@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<annotation ssi-v="3">
+    <info ftype="ASCII" size="8" />
+    <meta annotator="" role=""/>
+    <scheme name="test" type="DISCRETE"  color="#FFFFFFFF">
+        <item name="pickup" id="0" color="#FFC0504D" />
+        <item name="prepare" id="1" color="#FF4F81BD" />
+        <item name="toss" id="2" color="#FF9BBB59" />
+        <item name="rebound" id="3" color="#FF000000" />
+    </scheme>
+</annotation>

@@ -1,7 +1,8 @@
 ```
 conda create -n hss python=3
 conda activate hss
-conda install -y numpy pandas matplotlib scikit-learn seaborn
+conda install -y numpy pandas matplotlib scikit-learn seaborn jupyter
+pip install wfdb
 ```
 
 Notes:
