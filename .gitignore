@@ -1,9 +1,12 @@
 *.dll
 *.exe
 *.mp4
+*.avi
+
 .ipynb_checkpoints/
 .vscode/
 __pycache__/
 
 # prototypes
 data/prototypes
+*_keypoints.json
