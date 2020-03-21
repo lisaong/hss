@@ -1,11 +1,24 @@
+Workshops:
+- OpenPose
+  - [Video Keypoint Extraction](04_pose_estimation.ipynb)
+  - [Video Activity Classification](06_dozing_or_not.ipynb)
+
+Samples:
+- Kinoeva
+  - [Loading Kinoeva Data](01_load_data.ipynb)
+  - [Exploring Kinoeva Data](02_explore_data.ipynb)
+
+- [Hidden Markov Models from scratch](03_hmms.ipynb)
+
+- PhysioNet
+  - [Stress level classifier from Sensor Data](05_physionet.ipynb)
+
+Python setup:
 ```
 conda create -n hss python=3
 conda activate hss
-conda install -y numpy pandas matplotlib scikit-learn seaborn jupyter
-pip install wfdb
+pip install -r requirements.txt
 ```
 
-Notes:
-- TF now supports python 3.7: https://github.com/tensorflow/tensorflow/issues/20517#issuecomment-461910761
+Reference:
 - https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
-- Try this: https://arxiv.org/pdf/1812.07203.pdf
