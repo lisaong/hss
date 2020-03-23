@@ -2,6 +2,7 @@
 - OpenPose
   - [Video Keypoint Extraction](04_pose_estimation.ipynb)
   - [Video Activity Classification](06_dozing_or_not.ipynb)
+  - [Running OpenPose on Google Colab](openpose/OpenPose_on_Colab.ipynb)
 
 ## Examples
 - Kinoeva
