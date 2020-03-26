@@ -1,10 +1,10 @@
-## Workshops
+## Current Workshops
 - OpenPose
   - [Video Keypoint Extraction](04_pose_estimation.ipynb)
   - [Video Activity Classification](06_dozing_or_not.ipynb)
   - [Running OpenPose on Google Colab](openpose/OpenPose_on_Colab.ipynb)
 
-## Examples
+## Further Examples
 - Kinoeva
   - [Loading Kinoeva Data](01_load_data.ipynb)
   - [Exploring Kinoeva Data](02_explore_data.ipynb)
