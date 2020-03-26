@@ -9,9 +9,12 @@
   - [Loading Kinoeva Data](01_load_data.ipynb)
   - [Exploring Kinoeva Data](02_explore_data.ipynb)
 
-- [Hidden Markov Models from scratch](03_hmms.ipynb)
+- Hidden Markov Models and Applications
+  - [Hidden Markov Models from scratch](03_hmms.ipynb)
+  - [Stress level classifier from Sensor Data](05_physionet.ipynb)
+  - [Video Activity Classification](06_dozing_or_not.ipynb)
 
-- PhysioNet
+- PhysioNet Data Analysis and Machine Learning
   - [Stress level classifier from Sensor Data](05_physionet.ipynb)
 
 ## Python setup:
